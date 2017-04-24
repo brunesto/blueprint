@@ -97,7 +97,7 @@ $pt-dark-elevation-shadow-4: border-shadow($pt-dark-border-shadow-opacity),
 // Transitions
 $pt-transition-ease: cubic-bezier(0.4, 1, 0.75, 0.9) !default;
 $pt-transition-ease-bounce: cubic-bezier(0.54, 1.12, 0.38, 1.11) !default;
-$pt-transition-duration: 100ms !default;
+$pt-transition-duration: 0ms !default; // no-anims
 
 // Light theme styles
 
